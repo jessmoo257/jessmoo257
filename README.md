@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate ... with any beginners looking to leverage programming for research purposes. 
 - 📫 How to reach me ... email: jlmoore257@gmail.com
 - 😄 Pronouns: ... She/her
-- ⚡ Fun fact: ... Avocado's are a fruit, not a vegetable!   
+- ⚡ Fun fact: ... Avocados are a fruit, not a vegetable!   
 
 <!---
 jessmoo257/jessmoo257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
